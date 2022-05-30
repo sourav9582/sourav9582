@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Singh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Shayadri Foundation**
+
 
 - 🌱 I’m currently learning **backend and competitive programming**
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sourav-singh-17b1a9194**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sourav-singh-17b1a9194](https://www.linkedin.com/in/sourav-singh-17b1a9194)
+
+
 
 - ⚡ Fun fact **I think I am shy**
 
