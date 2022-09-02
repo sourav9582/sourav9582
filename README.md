@@ -35,6 +35,7 @@
 <hr>
 
 
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -265,3 +266,6 @@
     
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav9582&show_icons=true&locale=en" alt="sourav9582" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav9582&" alt="sourav9582" /></p>
